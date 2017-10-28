@@ -1,0 +1,125 @@
+{
+    diningHalls: [
+        0 : {
+	        name: “JJ’s”,
+		    location: “John Jay”
+		    hours: {
+		        “Monday”: [ 0 : “8:00 am”, 1 :“10:00 pm”],
+		        “Tuesday”: [ 0 : “8:00 am”, 1 :“10:00 pm”],
+		        “Wednesday”: [ 0 : “8:00 am”, 1 :“10:00 pm”],
+		        “Thursday”: [ 0 : “8:00 am”, 1 :“10:00 pm”],
+		        “Friday”: [ 0 : “8:00 am”, 1 :“10:00 pm”],
+		        “Saturday”: [ 0 : “8:00 am”, 1 :“10:00 pm”],
+		        “Sunday”: [ 0 : “8:00 am”, 1 :“10:00 pm”]
+	    	},
+		    menu: {
+		        “Breakfast”: {
+		        	“Monday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Tuesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Wednesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Thursday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Friday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Saturday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Sunday”: [ 0 : “meal1”, 1 :“meal2”]	
+		        },
+		        “Brunch”: {
+		        	“Monday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Tuesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Wednesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Thursday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Friday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Saturday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Sunday”: [ 0 : “meal1”, 1 :“meal2”]	
+		        },
+		        “Lunch”: {
+		        	“Monday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Tuesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Wednesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Thursday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Friday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Saturday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Sunday”: [ 0 : “meal1”, 1 :“meal2”]	
+		        },
+		        “Dinner”: {
+		        	“Monday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Tuesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Wednesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Thursday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Friday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Saturday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Sunday”: [ 0 : “meal1”, 1 :“meal2”]	
+		        },
+		        “LateNight”:  {
+		        	“Monday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Tuesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Wednesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Thursday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Friday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Saturday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Sunday”: [ 0 : “meal1”, 1 :“meal2”]	
+		        }
+	    	}
+		},   
+		1 : {
+	        name: “John Jay”,
+		    location: “John Jay”
+		    hours: {
+		        “Monday”: [ 0 : “8:00 am”, 1 :“10:00 pm”],
+		        “Tuesday”: [ 0 : “8:00 am”, 1 :“10:00 pm”],
+		        “Wednesday”: [ 0 : “8:00 am”, 1 :“10:00 pm”],
+		        “Thursday”: [ 0 : “8:00 am”, 1 :“10:00 pm”],
+		        “Friday”: [ 0 : “8:00 am”, 1 :“10:00 pm”],
+		        “Saturday”: [ 0 : “8:00 am”, 1 :“10:00 pm”],
+		        “Sunday”: [ 0 : “8:00 am”, 1 :“10:00 pm”]
+	    	},
+		    menu: {
+		        “Breakfast”: {
+		        	“Monday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Tuesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Wednesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Thursday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Friday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Saturday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Sunday”: [ 0 : “meal1”, 1 :“meal2”]	
+		        },
+		        “Brunch”: {
+		        	“Monday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Tuesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Wednesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Thursday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Friday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Saturday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Sunday”: [ 0 : “meal1”, 1 :“meal2”]	
+		        },
+		        “Lunch”: {
+		        	“Monday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Tuesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Wednesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Thursday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Friday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Saturday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Sunday”: [ 0 : “meal1”, 1 :“meal2”]	
+		        },
+		        “Dinner”: {
+		        	“Monday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Tuesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Wednesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Thursday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Friday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Saturday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Sunday”: [ 0 : “meal1”, 1 :“meal2”]	
+		        },
+		        “LateNight”:  {
+		        	“Monday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Tuesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Wednesday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Thursday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Friday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Saturday”: [ 0 : “meal1”, 1 :“meal2”],
+		        	“Sunday”: [ 0 : “meal1”, 1 :“meal2”]	
+		        }
+	    	}
+		},
+		...
+    ]    
+}
